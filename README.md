@@ -3,7 +3,7 @@
 
 - Full Stack Developer at **NS Consultores**: migration of ERP systems from VB.NET desktop applications to web applications built with **Blazor, C#, and SQL Server**.
 - Website: **[lisandrockdev.github.io](https://lisandrockdev.github.io)**
-- Academic projects (UTN): **[@Lisandstone](https://github.com/Lisandstone)**
+- Previous account, with UTN coursework and personal dotfiles: **[@Lisandstone](https://github.com/Lisandstone)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
